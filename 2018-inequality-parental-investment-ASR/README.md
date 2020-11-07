@@ -1,6 +1,6 @@
 # Replication of "Income Inequality and Class Divides in Parental Investment"
 
-This contains contains the replication files for the expenditure analysis in:
+This contains the replication files for the expenditure analysis in:
 
 Schneider, Daniel, Orestes P. Hastings, and Joe LaBriola. 2018. "Income Inequality and Class Divides in Parental Investment." *American Sociological Review* 83(3):475-507.
 
