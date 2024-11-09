@@ -6,7 +6,7 @@ Hastings, Orestes P. and Luca Maria Pesando. 2024. "What’s a Parent to do? Mea
 
 The replication uses both Stata and R.
 
-There are 4 files to be in order: 
+There are 4 files to be run in order: 
 
 1_initial_clean.do
 
